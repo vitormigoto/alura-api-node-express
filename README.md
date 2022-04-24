@@ -444,3 +444,5 @@ export default app
 ```
 
 Nós vimos neste tutorial como criar uma API Node.js básica com Express e livereload e como criarmos rotas de um CRUD simples, mas ainda precisamos evoluir para aplicar uma estruturação melhor e mais organizada também aplicando uma conexão com banco de dados para mantermos nossos dados persistentes.
+
+Conteúdo criado baseado na aula de Node.js do site Alura: [Alura - Node.js](https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb). 
